@@ -69,7 +69,8 @@ The project helps in understanding matrix manipulation techniques and strengthen
 
 ### Matrix Operations Output
 
-![Matrix Operations Output](screenshots/output.png)
+(<img width="1920" height="1020" alt="output" src="https://github.com/user-attachments/assets/0d198cef-d3b1-4d03-b285-490d193efdd2" />
+)
 
 > Add your execution screenshot inside the **screenshots** folder and name it **output.png**.
 
